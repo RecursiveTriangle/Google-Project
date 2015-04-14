@@ -1,2 +1,2 @@
 # Google-Project
-A clone of google's homepage
+A clone of Google's homepage
